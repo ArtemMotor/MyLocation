@@ -1,2 +1,1 @@
-permalink: /index.html
 # MyLocation
